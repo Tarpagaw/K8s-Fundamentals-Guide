@@ -1,4 +1,10 @@
 
+### Kubernetes Fundamentals: Understanding pods and nodes.
+
+
+
+
+
 ## Introduction
 
 Kubernetes, often abbreviated as k8s, has emerged as the de facto system for orchestrating containerized applications. Within this ecosystem, the concepts of "pods" and "nodes" are fundamental to understanding how Kubernetes manages and schedules applications. A pod is the smallest deployable unit created and managed by Kubernetes, while a node is the physical or virtual machine that hosts these pods. The purpose of this article is to guide you through the basics of pods and nodes, along with a simple example of how to deploy a pod using k8s commands.
